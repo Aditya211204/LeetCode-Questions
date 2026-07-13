@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0704-binary-search](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0704-binary-search) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Dynamic Programming
 |  |
 | ------- |
