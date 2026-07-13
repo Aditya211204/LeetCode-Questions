@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0989-add-to-array-form-of-integer) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,8 +71,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
