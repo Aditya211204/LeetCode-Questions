@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0704-binary-search](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0989-add-to-array-form-of-integer](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0509-fibonacci-number) |
+| [0989-add-to-array-form-of-integer](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 ## Two Pointers
 |  |
 | ------- |
