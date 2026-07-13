@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0989-add-to-array-form-of-integer](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0989-add-to-array-form-of-integer) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
 ## Hash Table
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
