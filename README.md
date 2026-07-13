@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
+| [0704-binary-search](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
 | ------- |
