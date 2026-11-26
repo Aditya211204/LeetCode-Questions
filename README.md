@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0268-missing-number) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -88,9 +92,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0169-majority-element) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
