@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1800-maximum-ascending-subarray-sum](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1800-maximum-ascending-subarray-sum) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Aditya211204/LeetCode-Questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Aditya211204/LeetCode-Questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Aditya211204/LeetCode-Questions/tree/master/2279-maximum-bags-with-full-capacity-of-rocks) |
 ## Dynamic Programming
 |  |
 | ------- |
