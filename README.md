@@ -1,6 +1,3 @@
-# LeetCode-Questions
-
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
