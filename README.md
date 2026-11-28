@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0169-majority-element) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0881-boats-to-save-people](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0881-boats-to-save-people) |
@@ -98,6 +100,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Aditya211204/LeetCode-Questions/tree/master/1137-n-th-tribonacci-number) |
